@@ -1,1 +1,1 @@
-console.log("this is dir1");
+console.log("dir1");
